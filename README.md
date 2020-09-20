@@ -1,2 +1,2 @@
 # Basic_Onshape_CAD
-[Part 1](Part_1.png)
+<img src="Part_1.png" width="80%">
