@@ -6,3 +6,7 @@ I just finished making the base plate for part 1. It was fairly simple and took 
 ## Part 2
 <img src="Mount.png" width="80%">
 I made my second part, the mount, in the same parts studio as my base. This made it very easy as all I had to do was draw the sqaure and all the holes I had made on the base were continued into the mount. The only issue with this is that if I wanted to change the holes just on one I could run into an issue; however, these holes are intended for screws so it really shouldn't matter because they should always be on top of each other.
+
+## Part 3
+<img src="Fork.png" width="80%">
+I chose to make this part in a separate studio because it did not reference any of the previous parts. It was failry straight forward and I didn't really struggle with it. The tangent fillets definitely were helpful and nice because you only have to select one edge.
