@@ -10,3 +10,7 @@ I made my second part, the mount, in the same parts studio as my base. This made
 ## Part 3
 <img src="Fork.png" width="80%">
 I chose to make this part in a separate studio because it did not reference any of the previous parts. It was failry straight forward and I didn't really struggle with it. The tangent fillets definitely were helpful and nice because you only have to select one edge.
+
+## Part 4
+<img src="Tire.png" width="80%">
+This is my tire for the caster. It was my first time using revolve in Onshape and it went smoothly. I'm starting to get used to using some of the shortcuts which are definitely nice.
