@@ -34,3 +34,8 @@ This piece was also very easy. I decided to made it in the same studio as my for
 ## Wheel Subassembly
 <img src="Wheel_Subassembly.png" width="80%">
 Here is my first attempt at an assembly in Onshape. It went well the only thing I struggled with was selecting the right mate connector.
+
+## Final Assembly
+<img src="Final_Assembly.png" width="80%">
+This is the final caster assembly. All the pieces went well together. I found it easier to preclick all the whole or edges where I wanted my screws before I selected insert, this way I could do them all at once. I think that using the mate connectors will take some getting used to but they're really not any harder than SolidWorks mates.
+
