@@ -18,3 +18,17 @@ This is my tire for the caster. It was my first time using revolve in Onshape an
 ## Part 5
 <img src="Wheel.png" width="80%">
 Here is my wheel. Everything went smoothly on this part. I didn't think it would be beneficial to keep it in the same part studio as the tire so I made a separate one. 
+
+## Part 6 and 7
+<img src="Axle_Collar.png" width="80%">
+This is my axle and collar made in one part studio. Pretty simple.
+
+## Part 8
+<img src="Bearing.png" width="80%">
+This bearing was very simple. Just two cicles referencing the center of the wheel.
+
+## Part 9
+<img src="Big_Bearing.png" width="80%">
+This piece was also very easy. I decided to made it in the same studio as my fork as I know that it is refencing that part.
+
+
