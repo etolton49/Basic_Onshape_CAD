@@ -39,3 +39,7 @@ Here is my first attempt at an assembly in Onshape. It went well the only thing 
 <img src="Final_Assembly.png" width="80%">
 This is the final caster assembly. All the pieces went well together. I found it easier to preclick all the whole or edges where I wanted my screws before I selected insert, this way I could do them all at once. I think that using the mate connectors will take some getting used to but they're really not any harder than SolidWorks mates. Also, there is something so satisfying about having all my parts in one document and being able to easily add them to my assembly. Here is the link to my document with all the parts in it: https://cvilleschools.onshape.com/documents/df6af577b8ad48bdc50f1b40/w/fd1c3f458be3824a12b97b2f/e/ca27e43cf5f98fe91a7b5e50.
 
+## Configurations
+<img src="Picture_Frame.png" width="80%">
+This is my picture frame using dowel pins and configurations. It went pretty smoothly but sometimes the connector mates didn't work out quite right. I found that if the sections of the frame were oriented the correct way then the mates didn't work and Onshape couldn't solve them. This was pretty easy to fix either using parallel mates of just reorienting the part and trying the mate again.
+Here is a link to this assembly:https://cvilleschools.onshape.com/documents/4cf737b654e4d4decaee2460/w/66bee053827cdc17fe9e68ba/e/e1dfe51e7f8469d2c6fcaa69
