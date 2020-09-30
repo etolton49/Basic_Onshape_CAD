@@ -14,3 +14,7 @@ I chose to make this part in a separate studio because it did not reference any 
 ## Part 4
 <img src="Tire.png" width="80%">
 This is my tire for the caster. It was my first time using revolve in Onshape and it went smoothly. I'm starting to get used to using some of the shortcuts which are definitely nice.
+
+## Part 5
+<img src="Wheel.png" width="80%">
+Here is my wheel. Everything went smoothly on this part. I didn't think it would be beneficial to keep it in the same part studio as the tire so I made a separate one. 
