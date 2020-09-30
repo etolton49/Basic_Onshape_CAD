@@ -31,4 +31,6 @@ This bearing was very simple. Just two cicles referencing the center of the whee
 <img src="Big_Bearing.png" width="80%">
 This piece was also very easy. I decided to made it in the same studio as my fork as I know that it is refencing that part.
 
-
+## Wheel Subassembly
+<img src="Wheel_Subassembly.png" width="80%">
+Here is my first attempt at an assembly in Onshape. It went well the only thing I struggled with was selecting the right mate connector.
