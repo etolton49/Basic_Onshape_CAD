@@ -43,3 +43,7 @@ This is the final caster assembly. All the pieces went well together. I found it
 <img src="Picture_Frame.png" width="80%">
 This is my picture frame using dowel pins and configurations. It went pretty smoothly but sometimes the connector mates didn't work out quite right. I found that if the sections of the frame were oriented the correct way then the mates didn't work and Onshape couldn't solve them. This was pretty easy to fix either using parallel mates of just reorienting the part and trying the mate again.
 Here is a link to this assembly:https://cvilleschools.onshape.com/documents/4cf737b654e4d4decaee2460/w/66bee053827cdc17fe9e68ba/e/e1dfe51e7f8469d2c6fcaa69
+
+## Challenge
+<img src="Challenge.png" width="80%">
+Here is my week 5 milestone challenge. It went pretty smoothly other than the mating. I struggle with the mates for some time before ending up using the cylindrical mates. I was about ready to rebuild the whole thign because I couldn't get the revolute mates to work. Also, next time I will circular pattern around a mate connect instead of creating an axis.
