@@ -46,4 +46,4 @@ Here is a link to this assembly:https://cvilleschools.onshape.com/documents/4cf7
 
 ## Challenge
 <img src="Challenge.png" width="80%">
-Here is my week 5 milestone challenge. It went pretty smoothly other than the mating. I struggle with the mates for some time before ending up using the cylindrical mates. I was about ready to rebuild the whole thign because I couldn't get the revolute mates to work. Also, next time I will circular pattern around a mate connect instead of creating an axis.
+Here is my week 5 milestone challenge. It went pretty smoothly other than the mating. I struggle with the mates for some time before ending up using the cylindrical mates. I was about ready to rebuild the whole thign because I couldn't get the revolute mates to work. Also, next time I will circular pattern around a mate connect instead of creating an axis. Here is the link to the assembly:https://cvilleschools.onshape.com/documents/07d7950993f6d56d35cb2e1b/w/4a6a6facf183384cde15d1ee/e/7ef266ac08a211d5978ebd83 
